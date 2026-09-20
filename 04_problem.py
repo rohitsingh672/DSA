@@ -13,4 +13,4 @@ print(median) # median = 2.5
 
 # In python 2 when we perform division between two integer value then it provide me the integer value
 # Example: 5/2 = 2 in python 2
-# But in python 3 5/2 = 2.5 in the new version of python it changes the behaviour of /
+# But in python 3 5/2 = 2.5 in the new version of python it changes the behaviour of /(division)
