@@ -1,4 +1,4 @@
-# Leetcode Problem 26 : Remove Elements
+# Leetcode Problem 27 : Remove Elements
 nums = [1,2,3,4]
 val = 3
 
